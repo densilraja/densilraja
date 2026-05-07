@@ -109,7 +109,7 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/irudhaya-densil-raja-j/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
