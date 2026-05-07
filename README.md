@@ -1,5 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/densilraja/densilraja/main/Banner.png" width="100%" />
+</p> -->
+<p align="center">
+  <img src="./banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Densil Raja</h1>
