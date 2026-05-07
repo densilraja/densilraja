@@ -14,7 +14,7 @@
 - 🌱 Currently learning Spring Boot, REST APIs, Microservices
 - 🔥 Solved 200+ LeetCode Problems
 - 🚀 Building scalable full-stack applications
-- 📫 Reach me at: yourmail@gmail.com
+- 📫 Reach me at: densil.raja@gmail.com
 
 ---
 
