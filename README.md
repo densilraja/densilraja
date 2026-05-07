@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/densilraja/densilraja/main/White Minimalist Profile Linkedin Banner.png" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Densil Raja</h1>
 <h3 align="center">Java Full Stack Developer | Spring Boot | React Developer</h3>
 
