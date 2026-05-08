@@ -21,6 +21,7 @@
 - 🌱 Currently learning Spring Boot, REST APIs, Microservices
 - 🔥 Solved 200+ LeetCode Problems
 - 🚀 Building scalable full-stack applications
+- 🌐 Portfolio: https://densilraja.github.io/portfolio-website/
 - 📫 Reach me at: densil.raja@gmail.com
 
 ---
@@ -111,6 +112,10 @@
 
 <a href="https://www.linkedin.com/in/irudhaya-densil-raja-j/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://densilraja.github.io/portfolio-website/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
 </a>
 </p>
 
