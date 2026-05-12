@@ -4,7 +4,6 @@
 <p align="center">
   <img src="./Banner" width="100%" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Densil Raja</h1>
 <h3 align="center">Java Full Stack Developer | Spring Boot | React Developer</h3>
 
