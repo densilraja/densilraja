@@ -56,18 +56,18 @@
 # 📌 Featured Projects
 
 ## 🪑 Furniture E-Commerce Website
-- React + TypeScript Furniture Store
+- React Furniture Store
 - Cart System
 - Login & Signup
 - Product Categories
 
 ## 🗳 Online Voting System
-- Django Based Voting Application
+- Spring Boot Based Voting Application
 - Authentication System
 - Admin Dashboard
 
 ## 🎯 Face Recognition Attendance System
-- OpenCV + Python
+- OpenCV + Spring Boot
 - AI Attendance Tracking
 - Real-Time Face Recognition
 
