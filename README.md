@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="Banner.png" width="100%" />
+  <img src="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Densil Raja</h1>
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech Information Technology Graduate (2026)** — CGPA: **8.1** | Vinayaka Mission's KV Engineering College
+- 🎓 **B.Tech Information Technology Graduate (2026)** — CGPA: **8.1** | Vinayaka Mission's Kirupananda Variyar Engineering College
 - 💼 **Actively seeking Junior Java Developer / Java Full Stack roles in Bangalore**
 - 🏢 **Internships:** HCLTech *(Python Developer)* · Dewdas Technologies *(AI Specialist)*
 - 🧑‍🏫 **Trained:** Java Full Stack Development at JSpiders, Bengaluru
