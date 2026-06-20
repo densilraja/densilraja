@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech Information Technology Graduate (2026)** — CGPA: **8.1** | Vinayaka Mission's Kirupananda Variyar Engineering College
+- 🎓 **B.Tech Information Technology Graduate (2026)** — CGPA: **8.1** | Vinayaka Mission's KV Engineering College
 - 💼 **Actively seeking Junior Java Developer / Java Full Stack roles in Bangalore**
 - 🏢 **Internships:** HCLTech *(Python Developer)* · Dewdas Technologies *(AI Specialist)*
 - 🧑‍🏫 **Trained:** Java Full Stack Development at JSpiders, Bengaluru
@@ -137,14 +137,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=densilraja&theme=tokyonight&hide_border=true" width="56%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=densilraja&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
