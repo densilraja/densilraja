@@ -15,7 +15,7 @@
 
 # 🚀 About Me
 
-- 🎓 B.Tech Information Technology, 2026 Graduate | CGPA: **8.1**
+- 🎓 B.Tech Information Technology, 2026 Graduate | CGPA: **8.3**
 - 💼 Seeking **Java Full Stack Developer** roles (also open to Network/Cloud Engineer opportunities)
 - ☕ Core Java, JDBC, Servlets, Spring Boot, REST APIs
 - 🎨 Frontend: React.js, HTML, CSS, JavaScript
