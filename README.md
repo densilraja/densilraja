@@ -1,30 +1,38 @@
-
 # Hi 👋, I'm Densil Raja
 
-<h3 align="center">☕ Java Developer | Spring Boot | AWS | DevOps | Computer Networks | Open to Work</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot | React.js | AWS | Open to Work</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;AWS+%7C+Docker+%7C+Jenkins+%7C+GitHub;Computer+Networks+%7C+Linux;React.js+Frontend;Open+to+Java+Backend+%26+Cloud+Engineer+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;React.js+%7C+HTML+%7C+CSS+%7C+JavaScript;AWS+Basics+%7C+Docker+%7C+Git%2FGitHub;Open+to+Java+Full+Stack+Roles" />
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=densilraja&label=Profile+Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/badge/Open%20To%20Work-Java%20%7C%20AWS%20%7C%20Cloud-brightgreen"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-Java%20Full%20Stack-brightgreen"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 B.Tech Information Technology Graduate (2026) | CGPA: **8.1**
-- 💼 Seeking **Java Backend, Java Full Stack and Network & Cloud Engineer** roles.
-- ☕ Strong in **Core Java, JDBC, Servlets, Hibernate, Spring and Spring Boot**
-- 🎨 Frontend: HTML, CSS, JavaScript, React
-- ☁️ Hands-on with AWS: EC2, IAM, S3, RDS, VPC, CloudWatch, Load Balancer
-- 🐳 Learning DevOps using Docker, Docker Hub, Jenkins, Git and GitHub
-- 🌐 Building strong Computer Networking fundamentals (OSI, TCP/IP, Routing, Subnetting, DNS, DHCP)
-- 💻 Solved 200+ LeetCode problems
-- 📍 Bengaluru, India
+- 🎓 B.Tech Information Technology, 2026 Graduate | CGPA: **8.1**
+- 💼 Seeking **Java Full Stack Developer** roles (also open to Network/Cloud Engineer opportunities)
+- ☕ Core Java, JDBC, Servlets, Spring Boot, REST APIs
+- 🎨 Frontend: React.js, HTML, CSS, JavaScript
+- 🗄 Databases: MySQL, Oracle SQL, MongoDB basics
+- 🐳 Git, GitHub, Docker, AWS Basics, CI/CD Fundamentals
+- 💻 Solved 200+ problems on LeetCode
+- 📍 Based in Bengaluru, India
+
+---
+
+# 💼 Internship Experience
+
+**Java Full Stack Intern** — JSpiders, Bengaluru (Feb 2026)
+
+**AI Intern** — Dewdas Technologies, Bengaluru (June 2025)
+
+**Python Developer Intern** — HCLTech, Chennai (Feb 2025)
 
 ---
 
@@ -41,12 +49,10 @@
 - Core Java
 - JDBC
 - Servlets
-- JSP
-- Hibernate
-- Spring Framework
 - Spring Boot
 - REST APIs
-- Maven
+- MVC Architecture
+- OOP & Design Patterns (Singleton, Strategy, Builder)
 
 ## Frontend
 
@@ -62,115 +68,57 @@
 
 - MySQL
 - Oracle SQL
+- MongoDB (basics)
 
-## AWS
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws"/>
-</p>
-
-- EC2
-- IAM
-- S3
-- RDS
-- VPC
-- CloudWatch
-- Elastic Load Balancer
-
-## DevOps
+## Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,githubactions"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux,idea,vscode,postman"/>
 </p>
 
+- Git & GitHub
 - Docker
-- Docker Hub
-- Jenkins
-- Git
-- GitHub
-- CI/CD Basics
-
-## Computer Networks
-
-- OSI Model
-- TCP/IP
-- IPv4 & IPv6
-- CIDR
-- Subnetting
-- Routing
-- Switching
-- DNS
-- DHCP
-- NAT
-- HTTP/HTTPS
-- SSH
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,idea,vscode,postman"/>
-</p>
+- AWS Basics (EC2, S3, IAM fundamentals)
+- CI/CD Fundamentals
+- Postman, IntelliJ IDEA, VS Code, Eclipse
 
 ---
 
 # 🎯 Currently Learning
 
-- Spring Security
-- Microservices
-- Jenkins Pipelines
-- Docker Compose
-- Advanced AWS
-- Linux Administration
-- Computer Network Troubleshooting
+- Spring Boot in-depth (Security, Validation, Email Verification, Payment Integration)
+- AWS Cloud (deeper hands-on)
+- Linux & Shell Scripting
 
 ---
 
 # 📌 Featured Projects
 
-## 🗳 VoteX – Online Polling & Voting System
+## 🗳 VoteX – Secure Online Voting System
 
-- Spring Boot
-- Spring Security
-- JWT
-- React
-- MySQL
+Spring Boot · MySQL · React.js
 
-Features:
+- JWT-based Authentication & Role-Based Access Control (RBAC)
+- Admin Dashboard: user management (CRUD, block/unblock, roles), dynamic positions management
+- REST APIs connecting a React/Vite frontend to a Spring Boot backend
+- 🔗 Repo: [github.com/densilraja](https://github.com/densilraja)
 
-- Authentication & Authorization
-- Admin Dashboard
-- Secure Voting
-- REST APIs
+## 🎯 Face Recognition Attendance Management System
 
----
+Spring Boot · Python · OpenCV · REST APIs
 
-## 👨‍💼 Employee Management System
-
-- Spring Boot
-- Hibernate
-- REST API
-- MySQL
+- Face detection/recognition using OpenCV (Haar Cascade)
+- Spring Boot middleware connecting the recognition module to a SQL-backed attendance system
 
 ---
 
-## 🎯 Face Recognition Attendance System
+# 🏆 Certifications
 
-- Python
-- OpenCV
-- SQL
-- Spring Boot Middleware
-
----
-
-## ☁ AWS Cloud Projects
-
-- EC2
-- IAM
-- VPC
-- RDS
-- S3
-- CloudWatch
-- Load Balancer
+- Java Full Stack Development Internship — JSpiders
+- AI Internship — Dewdas Technologies
+- Python Developer Internship — HCLTech
+- MongoDB – Connecting to a MongoDB Database
+- C Programming — Bharathidasan University (First Class with Distinction)
 
 ---
 
@@ -206,23 +154,13 @@ Features:
 
 ---
 
-# 🏆 Certifications
-
-- Java Full Stack Development – JSpiders
-- MongoDB Developer Associate
-- AWS (In Progress)
-- Docker (Learning)
-- Jenkins (Learning)
-
----
-
 # 🌐 Connect With Me
 
-- GitHub: https://github.com/densilraja
-- LinkedIn: https://www.linkedin.com/in/irudhaya-densil-raja-j/
-- Portfolio: https://densilraja.github.io/portfolio-website/
+- GitHub: [github.com/densilraja](https://github.com/densilraja)
+- LinkedIn: [linkedin.com/in/irudhaya-densil-raja-j](https://www.linkedin.com/in/irudhaya-densil-raja-j/)
+- Portfolio: [densilraja.github.io/portfolio-website](https://densilraja.github.io/portfolio-website/)
+- LeetCode: [leetcode.com/u/densilraja](https://leetcode.com/u/densilraja/)
 - Email: densil.raja@gmail.com
-- LeetCode: https://leetcode.com/u/densilraja/
 
 ---
 
