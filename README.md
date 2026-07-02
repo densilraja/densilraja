@@ -9,6 +9,8 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=densilraja&label=Profile+Views&color=0e75b6&style=flat"/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-Java%20Full%20Stack-brightgreen"/>
+<img src="https://img.shields.io/badge/Graduate-2026-blue"/>
+<img src="https://img.shields.io/badge/CGPA-8.3-orange"/>
 </p>
 
 ---
@@ -90,6 +92,20 @@
 - AWS Cloud (deeper hands-on)
 - Linux & Shell Scripting
 
+# 🌱 Currently Building
+
+- **Zepto Clone – Enterprise E-Commerce Platform** (see below) — updated daily as I build it out
+
+# 👯 Looking to Collaborate On
+
+- Java Full Stack projects (Spring Boot + React)
+- Open-source beginner-friendly issues
+
+# 💬 Ask Me About
+
+- Java, Spring Boot, REST APIs, React.js, MySQL
+- DSA & competitive programming (200+ LeetCode problems solved)
+
 ---
 
 # 📌 Featured Projects
@@ -109,6 +125,14 @@ Spring Boot · Python · OpenCV · REST APIs
 
 - Face detection/recognition using OpenCV (Haar Cascade)
 - Spring Boot middleware connecting the recognition module to a SQL-backed attendance system
+- 🔗 Repo: [attendance-management-system-using-face-recognization-python](https://github.com/densilraja/attendance-management-system-using-face-recognization-python)
+
+## 🛒 Zepto Clone – Enterprise E-Commerce Platform *(In Progress)*
+
+Actively building, with daily commits
+
+- Full-scale e-commerce platform inspired by Zepto, built to demonstrate enterprise-level architecture
+- 🔗 Repo: [Zepto-Clone-Enterprise-E-Commerce-Platform](https://github.com/densilraja/Zepto-Clone-Enterprise-E-Commerce-Platform)
 
 ---
 
