@@ -3,7 +3,7 @@
 <h3 align="center">Java Full Stack Developer | Spring Boot | React.js | AWS | Open to Work</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;React.js+%7C+HTML+%7C+CSS+%7C+JavaScript;AWS+Basics+%7C+Docker+%7C+Git%2FGitHub;Open+to+Java+Full+Stack+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;React.js+%7C+HTML+%7C+CSS+%7C+JavaScript;AWS+%7C+Docker+%7C+Git%2FGitHub;Open+to+Java+Full+Stack+Roles" />
 </p>
 
 <p align="center">
