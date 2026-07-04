@@ -31,7 +31,6 @@ My mission is to build **clean, scalable, and maintainable software** that solve
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p> -->
 
----
 
 
 
@@ -39,9 +38,8 @@ My mission is to build **clean, scalable, and maintainable software** that solve
 <img src="https://skillicons.dev/icons?i=java,js,html,css,react,spring,mysql,git,github,docker,aws,linux,idea,vscode,eclipse,postman,oracle,mongodb"/>
 </p> -->
 
----
-
 ## 🌐 Socials:
+---
 
 <p align="center">
 <a href="https://www.linkedin.com/in/irudhaya-densil-raja-j/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
