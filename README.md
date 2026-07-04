@@ -23,21 +23,21 @@ I work on **full-stack web applications, secure authentication systems, and data
 
 My mission is to build **clean, scalable, and maintainable software** that solves real problems — one project, one commit at a time.
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="https://www.linkedin.com/in/irudhaya-densil-raja-j/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 <a href="mailto:densil.raja@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+</p> -->
 
 ---
 
-## 🛠 Skills and Tools
 
-<p align="center">
+
+<!-- <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,html,css,react,spring,mysql,git,github,docker,aws,linux,idea,vscode,eclipse,postman,oracle,mongodb"/>
-</p>
+</p> -->
 
 ---
 
