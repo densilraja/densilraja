@@ -130,7 +130,7 @@ Focused on full-stack web applications, secure authentication systems (**JWT, RB
 - JWT-based Authentication & Role-Based Access Control (RBAC)
 - Admin Dashboard: user CRUD, block/unblock, roles, dynamic positions management
 - REST APIs connecting a React/Vite frontend to a Spring Boot backend
-- 🔗 [View Repository](https://github.com/densilraja)
+- 🔗 [View Repository](https://github.com/densilraja/online-polling-voting-system)
 
 ### 🎯 Face Recognition Attendance Management System
 `Spring Boot` `Python` `OpenCV` `REST APIs`
