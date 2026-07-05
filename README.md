@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Densil Raja</h1>
 
-<h3 align="center">☕ Java Full Stack Developer | Continuous Learner & Builder</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot · React.js · MySQL | 2026 Graduate | Open to Work</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;React.js+%7C+HTML+%7C+CSS+%7C+JavaScript;AWS+%7C+Docker+%7C+Git%2FGitHub;Open+to+Java+Full+Stack+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;React.js+%7C+HTML+%7C+CSS+%7C+JavaScript;AWS+%7C+Docker+%7C+Git%2FGitHub;Open+to+Java+Full+Stack+Roles+in+Bengaluru" />
 </p>
 
 <p align="center">
@@ -11,21 +11,32 @@
 <img src="https://img.shields.io/badge/Open%20To%20Work-Java%20Full%20Stack-brightgreen"/>
 <img src="https://img.shields.io/badge/Graduate-2026-blue"/>
 <img src="https://img.shields.io/badge/CGPA-8.3-orange"/>
+<img src="https://img.shields.io/badge/Location-Bengaluru-red"/>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/irudhaya-densil-raja-j/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:densil.raja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://densilraja.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 💡 About Me
 
-I am a **Java Full Stack Developer** and 2026 B.Tech Information Technology graduate, passionate about building scalable, secure, and well-architected web applications. My expertise includes **Core Java, Spring Boot, REST APIs, JDBC, Servlets**, along with frontend development using **React.js, HTML, CSS, and JavaScript**.
+**Java Full Stack Developer** and 2026 B.Tech Information Technology graduate, building scalable, secure, well-architected web applications with **Java, Spring Boot, REST APIs, JDBC, Servlets** on the backend and **React.js, HTML, CSS, JavaScript** on the frontend.
 
-I work on **full-stack web applications, secure authentication systems, and database-driven platforms** that focus on clean architecture, RBAC-based security, and real-world usability. I also implement **MVC architecture, JWT authentication, and CI/CD fundamentals**, with growing hands-on experience in **AWS, Docker, and Git/GitHub** for modern deployment workflows.
+Focused on full-stack web applications, secure authentication systems (**JWT, RBAC**), and database-driven platforms with clean **MVC architecture** and growing hands-on experience in **AWS, Docker, and CI/CD** for modern deployment workflows.
 
-My mission is to build **clean, scalable, and maintainable software** that solves real problems — one project, one commit at a time.
+🔭 Currently building: **Zepto Clone** — an enterprise-scale e-commerce platform (daily commits)
+🌱 Currently learning: **AWS Cloud, Kubernetes, Terraform, Docker in depth**
+💬 Ask me about: **Java, Spring Boot, React.js, REST API design, MySQL, JWT Authentication**
+📫 Reach me: **densil.raja@gmail.com**
+⚡ Fun fact: **200+ LeetCode problems solved and counting**
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/irudhaya-densil-raja-j/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -39,16 +50,14 @@ My mission is to build **clean, scalable, and maintainable software** that solve
 
 ## 💻 Tech Stack
 
-### 🧑‍💻 Programming Languages
-
+### Programming Languages
 <p>
 <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
-
+### Frontend
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -57,8 +66,7 @@ My mission is to build **clean, scalable, and maintainable software** that solve
 <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
-
+### Backend
 <p>
 <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/HIBERNATE-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
@@ -71,8 +79,7 @@ My mission is to build **clean, scalable, and maintainable software** that solve
 <img src="https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
-### 🗄 Databases
-
+### Databases
 <p>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -81,8 +88,7 @@ My mission is to build **clean, scalable, and maintainable software** that solve
 <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
-
+### Cloud & DevOps
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -97,8 +103,7 @@ My mission is to build **clean, scalable, and maintainable software** that solve
 <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### 🖥 IDEs & Development Tools
-
+### IDEs & Tools
 <p>
 <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
@@ -113,9 +118,7 @@ My mission is to build **clean, scalable, and maintainable software** that solve
 ## 💼 Internship Experience
 
 **Java Full Stack Intern** — JSpiders, Bengaluru (Feb 2026)
-
 **AI Intern** — Dewdas Technologies, Bengaluru (June 2025)
-
 **Python Developer Intern** — HCLTech, Chennai (Feb 2025)
 
 ---
@@ -123,22 +126,23 @@ My mission is to build **clean, scalable, and maintainable software** that solve
 ## 📌 Featured Projects
 
 ### 🗳 VoteX – Secure Online Voting System
-Spring Boot · MySQL · React.js
+`Spring Boot` `MySQL` `React.js` `JWT` `RBAC`
 - JWT-based Authentication & Role-Based Access Control (RBAC)
-- Admin Dashboard: user management (CRUD, block/unblock, roles), dynamic positions management
+- Admin Dashboard: user CRUD, block/unblock, roles, dynamic positions management
 - REST APIs connecting a React/Vite frontend to a Spring Boot backend
-- 🔗 Repo: [github.com/densilraja](https://github.com/densilraja)
+- 🔗 [View Repository](https://github.com/densilraja)
 
 ### 🎯 Face Recognition Attendance Management System
-Spring Boot · Python · OpenCV · REST APIs
+`Spring Boot` `Python` `OpenCV` `REST APIs`
 - Face detection/recognition using OpenCV (Haar Cascade)
 - Spring Boot middleware connecting the recognition module to a SQL-backed attendance system
-- 🔗 Repo: [attendance-management-system-using-face-recognization-python](https://github.com/densilraja/attendance-management-system-using-face-recognization-python)
+- 🔗 [View Repository](https://github.com/densilraja/attendance-management-system-using-face-recognization-python)
 
 ### 🛒 Zepto Clone – Enterprise E-Commerce Platform *(In Progress)*
-Actively building, with daily commits
-- Full-scale e-commerce platform inspired by Zepto, built to demonstrate enterprise-level architecture
-- 🔗 Repo: [Zepto-Clone-Enterprise-E-Commerce-Platform](https://github.com/densilraja/Zepto-Clone-Enterprise-E-Commerce-Platform)
+`Java` `Spring Boot` `React.js` `MySQL`
+- Full-scale e-commerce platform inspired by Zepto, demonstrating enterprise-level architecture
+- Actively building, with daily commits
+- 🔗 [View Repository](https://github.com/densilraja/Zepto-Clone-Enterprise-E-Commerce-Platform)
 
 ---
 
@@ -155,11 +159,11 @@ Actively building, with daily commits
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=densilraja&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=densilraja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=densilraja&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=densilraja&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
