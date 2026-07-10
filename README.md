@@ -35,8 +35,6 @@ Focused on full-stack web applications, secure authentication systems (**JWT, RB
 - ⚡ **Fun fact:** 200+ LeetCode problems solved and counting
 
 ---
-
----
 ## 🌐 Connect With Me
 
 <p align="center">
