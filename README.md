@@ -22,20 +22,23 @@
 
 ---
 
+<div align="center">
+
 ## 💡 About Me
 
 **Java Full Stack Developer** and 2026 B.Tech Information Technology graduate, building scalable, secure, well-architected web applications with **Java, Spring Boot, REST APIs, JDBC, Servlets** on the backend and **React.js, HTML, CSS, JavaScript** on the frontend.
 
 Focused on full-stack web applications, secure authentication systems (**JWT, RBAC**), and database-driven platforms with clean **MVC architecture** and growing hands-on experience in **AWS, Docker, and CI/CD** for modern deployment workflows.
 
-🔭 Currently building: **Zepto Clone** — an enterprise-scale e-commerce platform (daily commits)
-🌱 Currently learning: **AWS Cloud, Kubernetes, Terraform, Docker in depth**
-💬 Ask me about: **Java, Spring Boot, React.js, REST API design, MySQL, JWT Authentication**
-📫 Reach me: **densil.raja@gmail.com**
-⚡ Fun fact: **200+ LeetCode problems solved and counting**
+🔭 **Currently building:** Zepto Clone — an enterprise-scale e-commerce platform (daily commits)  
+🌱 **Currently learning:** AWS Cloud, Kubernetes, Terraform, Docker in depth  
+💬 **Ask me about:** Java, Spring Boot, React.js, REST API design, MySQL, JWT Authentication  
+📫 **Reach me:** densil.raja@gmail.com  
+⚡ **Fun fact:** 200+ LeetCode problems solved and counting
+
+</div>
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
