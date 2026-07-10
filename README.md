@@ -116,9 +116,9 @@ Focused on full-stack web applications, secure authentication systems (**JWT, RB
 
 ## 💼 Internship Experience
 
-**Java Full Stack Intern** — JSpiders, Bengaluru (Feb 2026)
-**AI Intern** — Dewdas Technologies, Bengaluru (June 2025)
-**Python Developer Intern** — HCLTech, Chennai (Feb 2025)
+- **Java Full Stack Intern** — JSpiders, Bengaluru (Feb 2026)
+- **AI Intern** — Dewdas Technologies, Bengaluru (June 2025)
+- **Python Developer Intern** — HCLTech, Chennai (Feb 2025)
 
 ---
 
