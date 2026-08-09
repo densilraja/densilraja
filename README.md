@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=densilraja&label=Profile+Views&color=0e75b6&style=flat"/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-Java%20Full%20Stack-brightgreen"/>
 <img src="https://img.shields.io/badge/Graduate-2026-blue"/>
-<img src="https://img.shields.io/badge/CGPA-8.3-orange"/>
+<img src="https://img.shields.io/badge/CGPA-8.1-orange"/>
 <img src="https://img.shields.io/badge/Location-Bengaluru-red"/>
 </p>
 
