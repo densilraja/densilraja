@@ -32,7 +32,7 @@ Focused on full-stack web applications, secure authentication systems (**JWT, RB
 - 🌱 **Currently learning:** AWS Cloud, Kubernetes, Terraform, Docker in depth
 - 💬 **Ask me about:** Java, Spring Boot, React.js, REST API design, MySQL, JWT Authentication
 - 📫 **Reach me:** densil.raja@gmail.com
-- ⚡ **Fun fact:** 200+ LeetCode problems solved and counting
+- ⚡ **Fun fact:** 220+ LeetCode problems solved and counting
 
 ---
 ## 🌐 Connect With Me
