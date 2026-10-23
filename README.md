@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Densil Raja</h1>
 
-<h3 align="center">Java Backend Developer | Spring Boot · REST APIs · MySQL · Microservices | DevOps & Cloud</h3>
+<h3 align="center"> Software Engineer | Spring Boot · REST APIs · MySQL · Microservices | DevOps & Cloud</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Hibernate+%7C+JPA+%7C+MySQL+%7C+SQL;Microservices+%7C+AWS+%7C+Docker;Jenkins+%7C+Kubernetes+%7C+Terraform;Problem+Solving+%7C+DSA+with+Java" />
