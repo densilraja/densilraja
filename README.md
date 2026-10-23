@@ -36,9 +36,9 @@
 
 ## 💡 About Me
 
-**Java Backend Developer** and 2026 B.Tech Information Technology graduate, focused on building reliable and scalable backend applications using **Java, Spring Boot, REST APIs, Hibernate/JPA, MySQL, and SQL**.
+**Software Engineer** focused on building reliable and scalable backend applications using **Java, Spring Boot, REST APIs, Hibernate/JPA, MySQL, and SQL**.
 
-Currently working as a **Java Backend Developer**, gaining practical experience in backend application development, business logic, REST APIs, database integration, debugging, testing, and enterprise Java technologies.
+Currently working as a **Software Engineer**, gaining practical experience in backend application development, business logic, REST APIs, database integration, debugging, testing, and enterprise Java technologies.
 
 I enjoy solving problems, understanding how systems work internally, and continuously improving my backend engineering skills. My current focus is on strengthening **Java, Spring Boot, SQL, RESTful API design, Microservices, system design, and scalable backend development**.
 
